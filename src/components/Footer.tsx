@@ -27,10 +27,10 @@ export default function Footer() {
             href={ONCHAINKIT_LINK}
             target="_blank"
             rel="noreferrer"
-            title="OnchainKit"
+            title="BlitzTag"
             className="font-semibold hover:text-indigo-600"
           >
-            OnchainKit
+            BlitzTag
           </a>
         </h3>
       </aside>

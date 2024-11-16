@@ -25,10 +25,10 @@ You can find your Wallet Connector project ID at [Wallet Connect](https://cloud.
 
 ```sh
 # See https://portal.cdp.coinbase.com/products/onchainkit
-NEXT_PUBLIC_CDP_API_KEY="GET_FROM_COINBASE_DEVELOPER_PLATFORM"
+NEXT_PUBLIC_CDP_API_KEY="fVkHfq6uyaFhZK15sJUfWZ735cf28eEh"
 
 # See https://cloud.walletconnect.com
-NEXT_PUBLIC_WC_PROJECT_ID="GET_FROM_WALLET_CONNECT"
+NEXT_PUBLIC_WC_PROJECT_ID="ee522837-a306-4d87-ab69-2f3e4375c0fb"
 ```
 <br />
 
